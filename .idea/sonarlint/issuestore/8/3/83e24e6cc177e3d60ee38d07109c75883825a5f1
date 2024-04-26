@@ -1,0 +1,34 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ì±†Øÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ì±†Øÿÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "arr".(Ý“ïä
+E	java:S106"+Replace this use of System.out by a logger.(ƒÉö¹þÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(–·¥öýÿÿÿÿ
+Œ
+java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(–·¥öýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ý—Âøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÇÛ™Àøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(é¼˜¨ûÿÿÿÿ
+>
+java:S1481"(Remove this unused "arr" local variable.(Ý“ïä
+@	java:S106"+Replace this use of System.out by a logger.(Ú“ÜÝ
+E	java:S106!"+Replace this use of System.out by a logger.(ªóà…øÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(ªóà…øÿÿÿÿ
+?	java:S106%"+Replace this use of System.out by a logger.(«ÌŽf
+E	java:S106'"+Replace this use of System.out by a logger.(ªóà…øÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(ÕÐßÿüÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(éšµÛüÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(½Èâ
+E	java:S106/"+Replace this use of System.out by a logger.(ªóà…øÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(ªóà…øÿÿÿÿ
+@
+java:S11973"*Move the array designators [] to the type.(ÞÙº‘
+E	java:S1065"+Replace this use of System.out by a logger.(šÆœÊþÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(Ôü¨ù
+E	java:S106<"+Replace this use of System.out by a logger.(æœôÉøÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(žóÕ·úÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
