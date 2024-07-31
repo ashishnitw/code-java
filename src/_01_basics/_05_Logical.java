@@ -1,4 +1,4 @@
-package basics;
+package _01_basics;
 
 public class JavaLogic {
 	public static void main(String[] args) {
