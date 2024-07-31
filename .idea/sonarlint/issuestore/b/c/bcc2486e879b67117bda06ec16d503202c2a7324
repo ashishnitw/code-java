@@ -1,0 +1,11 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ğ–ú1
+G	java:S106"+Replace this use of System.out by a logger.(İ¯‘ï8ğ–ú1
+M
+java:S2446"0"notify" may not wake up the appropriate thread.(ŒâÌ†8ğ–ú1
+{
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‘ğ–ú1
+G	java:S106'"+Replace this use of System.out by a logger.(İ¯‘ï8‘ğ–ú1
+M
+java:S2446)"0"notify" may not wake up the appropriate thread.(ŒâÌ†8’ğ–ú1

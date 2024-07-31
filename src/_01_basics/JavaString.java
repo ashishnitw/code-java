@@ -1,4 +1,4 @@
-package basics;// package coreJava;
+package _01_basics;// package coreJava;
 
 import java.util.StringTokenizer;
 

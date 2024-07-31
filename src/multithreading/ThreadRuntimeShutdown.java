@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 class ThreadShutDown extends Thread {
 	public void run() {

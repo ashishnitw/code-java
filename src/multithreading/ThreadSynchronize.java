@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 class CounterSync {
     int count;

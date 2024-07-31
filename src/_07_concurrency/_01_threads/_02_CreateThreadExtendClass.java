@@ -1,10 +1,11 @@
 package _07_concurrency._01_threads;
 
-public class _02_CreateThread {
+public class _02_CreateThreadExtendClass {
 
     static class DemoThread extends Thread {
+        @Override
         public void run() {
-            System.out.println("we are now in thread " + Thread.currentThread().getName());
+            System.out.println("we are now in thread " + this.getName());
         }
     }
     public static void main(String[] args) {

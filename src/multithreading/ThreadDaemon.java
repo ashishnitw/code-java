@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 public class ThreadDaemon extends Thread {
     public void run() {

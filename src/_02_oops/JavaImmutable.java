@@ -1,4 +1,4 @@
-package oops;// package coreJava;
+package _02_oops;// package coreJava;
 
 class ImmutableDemo{
 	private String s;

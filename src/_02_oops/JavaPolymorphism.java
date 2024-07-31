@@ -1,4 +1,4 @@
-package oops;// package coreJava;
+package _02_oops;// package coreJava;
 
 class Adder{
 	public static int add(int a,int b) { return a+b;}

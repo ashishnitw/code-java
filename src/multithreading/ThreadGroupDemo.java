@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 public class ThreadGroupDemo implements Runnable{
     public void run() {

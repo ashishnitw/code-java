@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 import java.util.Date;
 import java.util.Timer;

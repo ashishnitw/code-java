@@ -1,6 +1,4 @@
-package generics;// package generics;
-
-import java.util.Comparator;
+package _03_generics;// package generics;
 
 //class StudentGen{
 //	String name;

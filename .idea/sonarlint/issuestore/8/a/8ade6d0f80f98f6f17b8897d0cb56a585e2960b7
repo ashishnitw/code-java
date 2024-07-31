@@ -1,0 +1,50 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(«ç¤Âÿÿÿÿÿ
+Q
+java:S4973"<Strings and Boxed types should be compared using "equals()".(÷ı¯e
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ôÕ×Ùşÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÕÓ–á
+Q
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÃÿÔ*
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(üÒßåıÿÿÿÿ
+Q
+java:S4973"<Strings and Boxed types should be compared using "equals()".(©ıù)
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûºß“
+z
+java:S1149!"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒÏÄÿøÿÿÿÿ
+Q
+java:S1854*"6Remove this useless assignment to local variable "sd".(…ùòøÿÿÿÿ
+6
+java:S2129
+" Remove this "String" constructor(â›”»
+6
+java:S2129" Remove this "String" constructor(Ò”Ÿ
+E	java:S106"+Replace this use of System.out by a logger.(«ç¤Âÿÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(÷ı¯e
+E	java:S106"+Replace this use of System.out by a logger.(ôÕ×Ùşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÓµÒî
+@	java:S106"+Replace this use of System.out by a logger.(Üïå¹
+E	java:S106"+Replace this use of System.out by a logger.(ÂÒ½Õÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÕÓ–á
+E	java:S106"+Replace this use of System.out by a logger.(…¨ô«úÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ÃÿÔ*
+E	java:S106"+Replace this use of System.out by a logger.(üÒßåıÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(©ıù)
+E	java:S106""+Replace this use of System.out by a logger.(ƒáÒ±ùÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(™©ôÃøÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(ï˜©â
+E	java:S106%"+Replace this use of System.out by a logger.(Ö†ÈÉÿÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(óàÚ•
+E	java:S106'"+Replace this use of System.out by a logger.(ƒ¾®¼ÿÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(°Îò¡üÿÿÿÿ
+B
+java:S1481*"'Remove this unused "sd" local variable.(…ùòøÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ÎÊ¤Æşÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(ëÜ³Ò
+@	java:S1064"+Replace this use of System.out by a logger.(È›ô
+E	java:S1069"+Replace this use of System.out by a logger.(Û¯¥¦ûÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(Û¯¥¦ûÿÿÿÿ

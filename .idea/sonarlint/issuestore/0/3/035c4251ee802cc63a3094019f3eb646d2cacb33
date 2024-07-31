@@ -1,13 +1,0 @@
-
-M
-java:S3518"7Make sure "y" can't be zero before doing this division.(¸Ğ‹Ü
-/
-java:S2178"Correct this "&" to "&&".(¸Ğ‹Ü
-E	java:S106	"+Replace this use of System.out by a logger.(Ã²Êûÿÿÿÿ
-E	java:S106
-"+Replace this use of System.out by a logger.(şÒãûÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(—æá‚ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ã²Êûÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(şÒãûÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(—æá‚ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(ÄØ±ñûÿÿÿÿ

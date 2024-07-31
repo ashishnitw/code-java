@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 class Customer {
 	int amount = 100;

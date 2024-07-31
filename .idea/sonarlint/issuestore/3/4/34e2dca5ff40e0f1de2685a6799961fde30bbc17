@@ -1,0 +1,19 @@
+
+h
+java:S3008"RRename this field "MAX_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‘«ê
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°³Š,
+B
+java:S1602",Remove useless curly braces around statement(ÈÕâü
+J
+java:S1612"4Replace this lambda with method reference 's1::add'.(ÈÕâü
+G
+java:S1602",Remove useless curly braces around statement(Òáî™úÿÿÿÿ
+O
+java:S1612"4Replace this lambda with method reference 's2::add'.(Òáî™úÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(³¦Ç‚ùÿÿÿÿ
+`
+java:S1124,"EReorder the modifiers to comply with the Java Language Specification.(ÛëÍÒüÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(ÍšÓ¢ûÿÿÿÿ
+@
+java:S1197;"*Move the array designators [] to the type.(‘–µ¥

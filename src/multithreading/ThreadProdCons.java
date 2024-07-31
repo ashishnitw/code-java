@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 // package MultiThreading;
 
 import java.util.LinkedList;

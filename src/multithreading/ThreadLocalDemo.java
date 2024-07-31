@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 import java.text.SimpleDateFormat;
 import java.util.Random;

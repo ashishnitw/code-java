@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 class ThreadDL {
     private Object o1 = new Object();

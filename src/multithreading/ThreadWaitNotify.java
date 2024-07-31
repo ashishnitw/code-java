@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 // A java bean class on which threads will work and call wait and notify methods.
 class Message {

@@ -1,0 +1,9 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªωW
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒΡ΄ϊÿÿÿÿ
+F
+java:S2129"$Remove this "BigInteger" constructor(ΑΜ™ψÿÿÿÿ8Θήπρ1
+F
+java:S2129"$Remove this "BigInteger" constructor(ΑΜ™ψÿÿÿÿ8Θήπρ1
+G	java:S106"+Replace this use of System.out by a logger.(¬¤ΚΛ8Ώβέπρ1
+G	java:S106 "+Replace this use of System.out by a logger.(­’²8ΐβέπρ1

@@ -1,4 +1,4 @@
-package multithreadingold;
+package multithreading;
 
 public class ThreadDeadlockExample {
     public static void main(String[] args) {

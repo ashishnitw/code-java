@@ -1,0 +1,6 @@
+
+R
+java:S3518	"7Make sure "b" can't be zero before doing this division.(‚èëÏøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÀñÁ©øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(çø¬Ø
+@	java:S106"+Replace this use of System.out by a logger.(“¬“

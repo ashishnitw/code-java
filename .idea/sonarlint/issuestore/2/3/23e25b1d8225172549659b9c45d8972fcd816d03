@@ -1,0 +1,5 @@
+
+d
+java:S3014	"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(’ˆÂÆùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(›Óð°þÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(îðîéùÿÿÿÿ

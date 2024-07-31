@@ -1,0 +1,14 @@
+
+x
+java:S1192"VDefine a constant instead of duplicating this literal "we are now in thread " 3 times.(ּÝת›תÿÿÿÿ8 רטהס1
+E
+java:S1604"(Make this anonymous inner class a lambda(¼׳¨™8ֳ™דהס1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(® ©8ִ™דהס1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾—ס÷‎ÿÿÿÿ8ֵ™דהס1
+L	java:S106"+Replace this use of System.out by a logger.(ּÝת›תÿÿÿÿ8ּ™דהס1
+L	java:S106"+Replace this use of System.out by a logger.(ּÝת›תÿÿÿÿ8ּ™דהס1
+I
+java:S1602",Remove useless curly braces around statement(לÞ€ּ8ּ™דהס1
+L	java:S106"+Replace this use of System.out by a logger.(ּÝת›תÿÿÿÿ8ֽ™דהס1
+G	java:S106!"+Replace this use of System.out by a logger.(£ßײ½8ֽ™דהס1
+L	java:S106%"+Replace this use of System.out by a logger.( µץֹüÿÿÿÿ8¬רטהס1

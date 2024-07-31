@@ -1,4 +1,4 @@
-package collections;
+package _04_collections;
 
 import java.util.*;
 import java.util.stream.Collectors;

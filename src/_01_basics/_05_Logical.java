@@ -1,6 +1,6 @@
 package _01_basics;
 
-public class JavaLogic {
+public class _05_Logical {
 	public static void main(String[] args) {
 		int x = 100;
 		int y = 0;
